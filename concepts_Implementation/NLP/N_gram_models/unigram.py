@@ -34,7 +34,7 @@ model.build()
 print("Predicted Next Word: ", model.generate_next_word())
 
 
-# in ex_corpus file have a sentences are
+# in ex_corpus.txt file contains the following sentences:
 
 '''
 The cat sat on the mat.
